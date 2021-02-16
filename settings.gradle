@@ -9,4 +9,4 @@
 
 rootProject.name = 'my-microservices-demo'
 
-include 'myMicroService1','myMicroService2'
+include 'myMicroService1','myMicroService2', 'myEurekaNamingServer'
